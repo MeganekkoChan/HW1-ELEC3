@@ -1,0 +1,11 @@
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\bin\Debug\HW1.xml
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\obj\Debug\HW1.vbprojAssemblyReference.cache
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\obj\Debug\HW1.Form1.resources
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\obj\Debug\HW1.Resources.resources
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\obj\Debug\HW1.vbproj.GenerateResource.cache
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\obj\Debug\HW1.xml
+C:\Users\sambo\OneDrive\Documents\VB.Net\HW1\HW1\obj\Debug\HW1.pdb
